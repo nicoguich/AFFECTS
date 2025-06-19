@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 878.74 878.74">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #e30613;
+        stroke-miterlimit: 11.34;
+        stroke-width: .28px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st1 {
+        stroke: #e52521;
+        stroke-miterlimit: 11.34;
+        stroke-width: .28px;
+      }
+    </style>
+  </defs>
+  <path id="front_outsideCutPath" class="st1" d="M63.85,575.19v-8.5h82.94v8.5" vector-effect="non-scaling-stroke"/>
+  <path id="front_outsideCutPath1" data-name="front_outsideCutPath" class="st1" d="M34.46,291.73h-14.17v100.26h8.5v82.94h-8.5v100.26h14.14" vector-effect="non-scaling-stroke"/>
+  <path id="front_outsideCutPath2" data-name="front_outsideCutPath" class="st1" d="M146.8,291.73v8.5H63.85v-8.5" vector-effect="non-scaling-stroke"/>
+  <path id="front_outsideCutPath3" data-name="front_outsideCutPath" class="st1" d="M176.16,575.19h14.21v-100.26h-8.5v-82.94h8.5v-100.26h-14.17" vector-effect="non-scaling-stroke"/>
+  <path id="left_outsideCutPath" class="st1" d="M385.96,583.69v100.26h-8.5v82.94h8.5v100.26h124.72v-100.26h8.5v-82.94h-8.5v-100.26h-124.72Z" vector-effect="non-scaling-stroke"/>
+  <path id="top_outsideCutPath" class="st1" d="M527.69,733.93v124.72h35.06v8.5h82.94v-8.5h35.06v-124.72h-35.06v-8.5h-82.94v8.5h-35.06Z" vector-effect="non-scaling-stroke"/>
+  <path id="right_outsideCutPath" class="st1" d="M385.96,291.73v100.26h-8.5v82.94h8.5v100.26h124.72v-100.26h8.5v-82.94h-8.5v-100.26h-124.72Z" vector-effect="non-scaling-stroke"/>
+  <path id="bottom_outsideCutPath" class="st1" d="M527.69,583.69v124.72h35.06v8.5h82.94v-8.5h35.06v-124.72h-35.06v-8.5h-82.94v8.5h-35.06Z" vector-effect="non-scaling-stroke"/>
+  <path class="st1" d="M156.33,133.86"/>
+  <polyline class="st1" points="34.46 291.73 34.46 133.86 68.26 26.13"/>
+  <line class="st1" x1="146.8" y1="291.73" x2="63.85" y2="291.73"/>
+  <polyline class="st1" points="142.05 26.13 176.19 133.86 176.19 291.73"/>
+  <circle class="st1" cx="105.33" cy="150.68" r="7.23"/>
+  <circle class="st1" cx="105.33" cy="247.05" r="7.23"/>
+  <path class="st1" d="M68.26,26.13h0c0-9.53,7.72-17.25,17.25-17.25h39.29c9.53,0,17.25,7.72,17.25,17.25h0"/>
+  <circle class="st1" cx="105.16" cy="41.76" r="7.51"/>
+  <circle class="st1" cx="143.86" cy="806.64" r="3.29"/>
+  <circle class="st1" cx="143.77" cy="783.94" r="3.29"/>
+  <circle class="st1" cx="143.82" cy="761.18" r="3.29"/>
+  <circle class="st1" cx="128.24" cy="745.69" r="3.29"/>
+  <circle class="st1" cx="82.83" cy="745.71" r="3.29"/>
+  <circle class="st1" cx="67.27" cy="761.24" r="3.29"/>
+  <circle class="st1" cx="67.19" cy="783.97" r="3.29"/>
+  <circle class="st1" cx="67.28" cy="806.62" r="3.29"/>
+  <path class="st1" d="M76.35,814.77h-1.24c-11.5,0-20.81-4.28-20.81-9.57v-71.46c0-.36-.08-.34,0-.68"/>
+  <path class="st1" d="M156.98,733.06c.08.35.05.33.05.68v71.46c0,5.29-9.32,9.57-20.81,9.57h-1.98"/>
+  <polyline class="st1" points="76.35 814.77 76.35 792.48 134.23 792.48 134.23 814.77"/>
+  <path class="st1" d="M54.29,733.06"/>
+  <polyline class="st1" points="176.16 575.19 176.16 733.06 156.98 733.06"/>
+  <polyline class="st1" points="54.29 733.06 34.43 733.06 34.43 575.19"/>
+  <circle class="st1" cx="105.29" cy="696.24" r="7.23"/>
+  <circle class="st1" cx="105.29" cy="589.87" r="7.23"/>
+  <line class="st1" x1="63.85" y1="575.19" x2="146.8" y2="575.19"/>
+  <path id="front_outsideCutPath4" data-name="front_outsideCutPath" class="st1" d="M239.6,575.19v-8.5h82.94v8.5" vector-effect="non-scaling-stroke"/>
+  <path id="front_outsideCutPath5" data-name="front_outsideCutPath" class="st1" d="M210.21,291.73h-14.17v100.26h8.5v82.94h-8.5v100.26h14.14" vector-effect="non-scaling-stroke"/>
+  <path id="front_outsideCutPath6" data-name="front_outsideCutPath" class="st1" d="M322.55,291.73v8.5h-82.94v-8.5" vector-effect="non-scaling-stroke"/>
+  <path id="front_outsideCutPath7" data-name="front_outsideCutPath" class="st1" d="M351.9,575.19h14.21v-100.26h-8.5v-82.94h8.5v-100.26h-14.17" vector-effect="non-scaling-stroke"/>
+  <path class="st1" d="M332.08,133.86"/>
+  <polyline class="st1" points="210.21 291.73 210.21 133.86 244.01 26.13"/>
+  <line class="st1" x1="322.55" y1="291.73" x2="239.6" y2="291.73"/>
+  <polyline class="st1" points="317.8 26.13 351.94 133.86 351.94 291.73"/>
+  <circle class="st1" cx="281.08" cy="150.68" r="7.23"/>
+  <circle class="st1" cx="281.08" cy="247.05" r="7.23"/>
+  <path class="st1" d="M244.01,26.13h0c0-9.53,7.72-17.25,17.25-17.25h39.29c9.53,0,17.25,7.72,17.25,17.25h0"/>
+  <circle class="st1" cx="280.9" cy="41.76" r="7.51"/>
+  <circle class="st1" cx="319.6" cy="806.64" r="3.29"/>
+  <circle class="st1" cx="319.51" cy="783.94" r="3.29"/>
+  <circle class="st1" cx="319.56" cy="761.18" r="3.29"/>
+  <circle class="st1" cx="303.98" cy="745.69" r="3.29"/>
+  <circle class="st1" cx="258.57" cy="745.71" r="3.29"/>
+  <circle class="st1" cx="243.01" cy="761.24" r="3.29"/>
+  <circle class="st1" cx="242.93" cy="783.97" r="3.29"/>
+  <circle class="st1" cx="243.02" cy="806.62" r="3.29"/>
+  <path class="st1" d="M252.09,814.77h-1.24c-11.5,0-20.81-4.28-20.81-9.57v-71.46c0-.36-.08-.34,0-.68"/>
+  <path class="st1" d="M332.72,733.06c.08.35.05.33.05.68v71.46c0,5.29-9.32,9.57-20.81,9.57h-1.98"/>
+  <polyline class="st1" points="252.09 814.77 252.09 792.48 309.97 792.48 309.97 814.77"/>
+  <path class="st1" d="M230.03,733.06"/>
+  <polyline class="st1" points="351.9 575.19 351.9 733.06 332.72 733.06"/>
+  <polyline class="st1" points="230.03 733.06 210.17 733.06 210.17 575.19"/>
+  <circle class="st1" cx="281.03" cy="696.24" r="7.23"/>
+  <circle class="st1" cx="281.03" cy="589.87" r="7.23"/>
+  <line class="st1" x1="239.6" y1="575.19" x2="322.55" y2="575.19"/>
+  <circle class="st0" cx="602.09" cy="646.06" r="28.35"/>
+</svg>

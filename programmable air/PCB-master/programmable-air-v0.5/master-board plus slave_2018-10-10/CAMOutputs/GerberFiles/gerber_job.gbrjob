@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-10-10T06:23:26Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "master-board plus slave"
+        },
+        "Owner": "Amitabh Shri <amitabh@nyu.edu>",
+        "Size": {
+            "X": 97.79,
+            "Y": 98.9076
+        }
+    }
+}
