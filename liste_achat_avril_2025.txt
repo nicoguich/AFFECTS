@@ -1,0 +1,8 @@
+22 avril : test sur soft robotique -> plus de longueur de tuyau --> commander dragonskin / grande longueur 5x 5m gros tuyau / raccord petit gros tuyau
+
+
+23 avril : recherche sur robot enceinte --> faire et commander pcb pour alim/servo / giro(mp5050)i2c? / ampli / teensy / raspi / pour lipo 3s avec regulateur et buck converter
+
+
+faire un panier chez rmodels avec un petit stock de matériel
+
